@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexander Yakovlev (@AlexanderYakovlev-Yassa)
+- 👀 I’m interested in learning Java and related technologies. 
+- 🌱 I’m currently learning Angular framework and creating a WEB UI project for an API service (which I had created earlier).
+- 📫 You can reach me by email: sasha-yassa@yandex.ru.
